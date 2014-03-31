@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: 3e63d9d2a36f0544e9df2c8d5001adfb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Canaleta
+    100002: Canaleta 1
+    100004: ColumnaDerecha
+    100006: ColumnaIzquierda
+    100008: Entrada
+    100010: //RootNode
+    100012: GuardaEscobasDerecha
+    100014: GuardaEscobasDerecha 1
+    100016: GuardaEscobasFrontal
+    100018: GuardaEscobasFrontal2
+    100020: GuardaEscobasTrasero
+    100022: GuardaEscobasTrasero001
+    100024: ParedDerecha
+    100026: ParedFrontal
+    100028: ParedIzquierda
+    100030: ParedTrasera
+    100032: Suelo
+    100034: Techo
+    100036: Ventana
+    100038: AwningWindow001
+    100040: AwningWindow002
+    100042: AwningWindow003
+    100044: AwningWindow004
+    100046: AwningWindow005
+    100048: Chapa
+    100050: ColumnaEntrada
+    100052: ColumnaIzquierda1
+    100054: ColumnaIzquierda2
+    100056: GuardaEscobasIzquierda
+    100058: ParedPuerta2
+    100060: ParedPuerta2 1
+    100062: Puerta1
+    100064: Puerta2
+    100066: SalonMac
+    100068: Sphere002
+    100070: ParedPuerta003
+    100072: Box001
+    400000: Canaleta
+    400002: Canaleta 1
+    400004: ColumnaDerecha
+    400006: ColumnaIzquierda
+    400008: Entrada
+    400010: //RootNode
+    400012: GuardaEscobasDerecha
+    400014: GuardaEscobasDerecha 1
+    400016: GuardaEscobasFrontal
+    400018: GuardaEscobasFrontal2
+    400020: GuardaEscobasTrasero
+    400022: GuardaEscobasTrasero001
+    400024: ParedDerecha
+    400026: ParedFrontal
+    400028: ParedIzquierda
+    400030: ParedTrasera
+    400032: Suelo
+    400034: Techo
+    400036: Ventana
+    400038: AwningWindow001
+    400040: AwningWindow002
+    400042: AwningWindow003
+    400044: AwningWindow004
+    400046: AwningWindow005
+    400048: Chapa
+    400050: ColumnaEntrada
+    400052: ColumnaIzquierda1
+    400054: ColumnaIzquierda2
+    400056: GuardaEscobasIzquierda
+    400058: ParedPuerta2
+    400060: ParedPuerta2 1
+    400062: Puerta1
+    400064: Puerta2
+    400066: SalonMac
+    400068: Sphere002
+    400070: ParedPuerta003
+    400072: Box001
+    2300000: Canaleta
+    2300002: Canaleta 1
+    2300004: ColumnaDerecha
+    2300006: ColumnaIzquierda
+    2300008: Entrada
+    2300010: GuardaEscobasDerecha
+    2300012: GuardaEscobasDerecha 1
+    2300014: GuardaEscobasFrontal
+    2300016: GuardaEscobasFrontal2
+    2300018: GuardaEscobasTrasero
+    2300020: GuardaEscobasTrasero001
+    2300022: ParedDerecha
+    2300024: ParedFrontal
+    2300026: ParedIzquierda
+    2300028: ParedTrasera
+    2300030: Suelo
+    2300032: Techo
+    2300034: Ventana
+    2300036: AwningWindow001
+    2300038: AwningWindow002
+    2300040: AwningWindow003
+    2300042: AwningWindow004
+    2300044: AwningWindow005
+    2300046: Chapa
+    2300048: ColumnaEntrada
+    2300050: ColumnaIzquierda1
+    2300052: ColumnaIzquierda2
+    2300054: GuardaEscobasIzquierda
+    2300056: ParedPuerta2
+    2300058: ParedPuerta2 1
+    2300060: Puerta1
+    2300062: Puerta2
+    2300064: Sphere002
+    2300066: ParedPuerta003
+    2300068: Box001
+    3300000: Canaleta
+    3300002: Canaleta 1
+    3300004: ColumnaDerecha
+    3300006: ColumnaIzquierda
+    3300008: Entrada
+    3300010: GuardaEscobasDerecha
+    3300012: GuardaEscobasDerecha 1
+    3300014: GuardaEscobasFrontal
+    3300016: GuardaEscobasFrontal2
+    3300018: GuardaEscobasTrasero
+    3300020: GuardaEscobasTrasero001
+    3300022: ParedDerecha
+    3300024: ParedFrontal
+    3300026: ParedIzquierda
+    3300028: ParedTrasera
+    3300030: Suelo
+    3300032: Techo
+    3300034: Ventana
+    3300036: AwningWindow001
+    3300038: AwningWindow002
+    3300040: AwningWindow003
+    3300042: AwningWindow004
+    3300044: AwningWindow005
+    3300046: Chapa
+    3300048: ColumnaEntrada
+    3300050: ColumnaIzquierda1
+    3300052: ColumnaIzquierda2
+    3300054: GuardaEscobasIzquierda
+    3300056: ParedPuerta2
+    3300058: ParedPuerta2 1
+    3300060: Puerta1
+    3300062: Puerta2
+    3300064: Sphere002
+    3300066: ParedPuerta003
+    3300068: Box001
+    4300000: Suelo
+    4300002: ParedTrasera
+    4300004: ParedFrontal
+    4300006: ParedDerecha
+    4300008: ColumnaIzquierda
+    4300010: ParedIzquierda
+    4300012: ColumnaDerecha
+    4300014: GuardaEscobasFrontal
+    4300016: GuardaEscobasTrasero
+    4300018: GuardaEscobasDerecha
+    4300020: GuardaEscobasDerecha
+    4300022: Entrada
+    4300024: GuardaEscobasFrontal2
+    4300026: Canaleta
+    4300028: GuardaEscobasTrasero001
+    4300030: Canaleta
+    4300032: Techo
+    4300034: Ventana
+    4300036: Sphere002
+    4300038: Chapa
+    4300040: Puerta2
+    4300042: ColumnaEntrada
+    4300044: ParedPuerta2
+    4300046: ParedPuerta2
+    4300048: ColumnaIzquierda2
+    4300050: Puerta1
+    4300052: GuardaEscobasIzquierda
+    4300054: AwningWindow002
+    4300056: AwningWindow003
+    4300058: AwningWindow004
+    4300060: ColumnaIzquierda1
+    4300062: AwningWindow001
+    4300064: AwningWindow005
+    4300066: ParedPuerta003
+    4300068: Box001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

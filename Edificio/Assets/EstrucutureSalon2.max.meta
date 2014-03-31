@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: fd3cee157ccefff4b978c22ca27e13a2
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Canaleta
+    100002: Canaleta 1
+    100004: Columna
+    100006: ColumnaDerecha
+    100008: ColumnaIzquierda
+    100010: Entrada
+    100012: //RootNode
+    100014: GuardaEscobasDerecha
+    100016: GuardaEscobasDerecha 1
+    100018: GuardaEscobasFrontal
+    100020: GuardaEscobasFrontal2
+    100022: GuardaEscobasTrasero
+    100024: GuardaEscobasTrasero001
+    100026: ParedDerecha
+    100028: ParedFrontal
+    100030: ParedIzquierda
+    100032: ParedTrasera
+    100034: Suelo
+    100036: Techo
+    100038: Ventana
+    100040: AwningWindow001
+    400000: Canaleta
+    400002: Canaleta 1
+    400004: Columna
+    400006: ColumnaDerecha
+    400008: ColumnaIzquierda
+    400010: Entrada
+    400012: //RootNode
+    400014: GuardaEscobasDerecha
+    400016: GuardaEscobasDerecha 1
+    400018: GuardaEscobasFrontal
+    400020: GuardaEscobasFrontal2
+    400022: GuardaEscobasTrasero
+    400024: GuardaEscobasTrasero001
+    400026: ParedDerecha
+    400028: ParedFrontal
+    400030: ParedIzquierda
+    400032: ParedTrasera
+    400034: Suelo
+    400036: Techo
+    400038: Ventana
+    400040: AwningWindow001
+    2300000: Canaleta
+    2300002: Canaleta 1
+    2300004: Columna
+    2300006: ColumnaDerecha
+    2300008: ColumnaIzquierda
+    2300010: Entrada
+    2300012: GuardaEscobasDerecha
+    2300014: GuardaEscobasDerecha 1
+    2300016: GuardaEscobasFrontal
+    2300018: GuardaEscobasFrontal2
+    2300020: GuardaEscobasTrasero
+    2300022: GuardaEscobasTrasero001
+    2300024: ParedDerecha
+    2300026: ParedFrontal
+    2300028: ParedIzquierda
+    2300030: ParedTrasera
+    2300032: Suelo
+    2300034: Techo
+    2300036: Ventana
+    2300038: AwningWindow001
+    3300000: Canaleta
+    3300002: Canaleta 1
+    3300004: Columna
+    3300006: ColumnaDerecha
+    3300008: ColumnaIzquierda
+    3300010: Entrada
+    3300012: GuardaEscobasDerecha
+    3300014: GuardaEscobasDerecha 1
+    3300016: GuardaEscobasFrontal
+    3300018: GuardaEscobasFrontal2
+    3300020: GuardaEscobasTrasero
+    3300022: GuardaEscobasTrasero001
+    3300024: ParedDerecha
+    3300026: ParedFrontal
+    3300028: ParedIzquierda
+    3300030: ParedTrasera
+    3300032: Suelo
+    3300034: Techo
+    3300036: Ventana
+    3300038: AwningWindow001
+    4300000: Suelo
+    4300002: ParedTrasera
+    4300004: ParedFrontal
+    4300006: ParedDerecha
+    4300008: Columna
+    4300010: ColumnaIzquierda
+    4300012: ParedIzquierda
+    4300014: ColumnaDerecha
+    4300016: GuardaEscobasFrontal
+    4300018: GuardaEscobasTrasero
+    4300020: GuardaEscobasDerecha
+    4300022: GuardaEscobasDerecha
+    4300024: Entrada
+    4300026: GuardaEscobasFrontal2
+    4300028: Canaleta
+    4300030: GuardaEscobasTrasero001
+    4300032: Canaleta
+    4300034: Techo
+    4300036: Ventana
+    4300038: AwningWindow001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

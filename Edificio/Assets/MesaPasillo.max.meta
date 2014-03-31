@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: aa9f5e6303c12224ebbfc9d60583752b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cerradura
+    100002: Cuerpo
+    100004: Cuerpo 1
+    100006: Manijas
+    100008: MesaPaillo
+    100010: //RootNode
+    100012: Pata1
+    100014: Pata1 1
+    100016: Pata2
+    100018: Pata3
+    100020: Pata4
+    100022: Pata5
+    100024: Pata6
+    100026: Patas
+    100028: Tube001
+    100030: Tube003
+    100032: Tube004
+    100034: Tube005
+    400000: Cerradura
+    400002: Cuerpo
+    400004: Cuerpo 1
+    400006: Manijas
+    400008: MesaPaillo
+    400010: //RootNode
+    400012: Pata1
+    400014: Pata1 1
+    400016: Pata2
+    400018: Pata3
+    400020: Pata4
+    400022: Pata5
+    400024: Pata6
+    400026: Patas
+    400028: Tube001
+    400030: Tube003
+    400032: Tube004
+    400034: Tube005
+    2300000: Cerradura
+    2300002: Cuerpo 1
+    2300004: Pata1
+    2300006: Pata1 1
+    2300008: Pata2
+    2300010: Pata3
+    2300012: Pata4
+    2300014: Pata5
+    2300016: Pata6
+    2300018: Tube001
+    2300020: Tube003
+    2300022: Tube004
+    2300024: Tube005
+    3300000: Cerradura
+    3300002: Cuerpo 1
+    3300004: Pata1
+    3300006: Pata1 1
+    3300008: Pata2
+    3300010: Pata3
+    3300012: Pata4
+    3300014: Pata5
+    3300016: Pata6
+    3300018: Tube001
+    3300020: Tube003
+    3300022: Tube004
+    3300024: Tube005
+    4300000: Tube001
+    4300002: Tube003
+    4300004: Tube004
+    4300006: Tube005
+    4300008: Cerradura
+    4300010: Pata1
+    4300012: Cuerpo
+    4300014: Pata3
+    4300016: Pata1
+    4300018: Pata5
+    4300020: Pata6
+    4300022: Pata2
+    4300024: Pata4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
