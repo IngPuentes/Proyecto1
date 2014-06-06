@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: 808675a5cb6413d44bffcd1509fd3184
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: ' 2'
+    100004: cerradura003
+    100006: cerradura004
+    100008: cerradura005
+    100010: cerradura006
+    100012: cerradura007
+    100014: cerradura008
+    100016: Cerradura1
+    100018: cerradura1
+    100020: Cerradura2
+    100022: cerradura2
+    100024: Chapa1
+    100026: Chapa2
+    100028: Escaleras
+    100030: Marco
+    100032: marco
+    100034: Marco 1
+    100036: Marco 2
+    100038: Marco 3
+    100040: Marco 4
+    100042: Marco 5
+    100044: marco001
+    100046: Marco002
+    100048: marco002
+    100050: Marco003
+    100052: marco003
+    100054: marco_chapa
+    100056: marco_chapa003
+    100058: marco_chapa004
+    100060: marco_chapa005
+    100062: marco_chapa006
+    100064: marco_chapa007
+    100066: marco_chapa008
+    100068: marco_chapa2
+    100070: marco_vidrio
+    100072: marco_vidrio 1
+    100074: marco_vidrio001
+    100076: marco_vidrio002
+    100078: marco_vidrio003
+    100080: marco_vidrio004
+    100082: marco_vidrio_fijo
+    100084: marco_vidrio_fijo001
+    100086: marco_vidrio_fijo002
+    100088: MarcoInterno
+    100090: MarcoInterno 1
+    100092: MarcoInterno003
+    100094: MarcoInterno004
+    100096: MarcoInterno005
+    100098: MarcoInterno006
+    100100: MarcoInterno007
+    100102: MarcoInterno008
+    100104: MarcoInterno009
+    100106: MarcoInterno010
+    100108: MarcoInterno011
+    100110: MarcoInterno012
+    100112: MarcoInterno013
+    100114: MarcoInterno014
+    100116: MarcoInterno015
+    100118: MarcoInterno016
+    100120: MarcoInterno017
+    100122: MarcoInterno018
+    100124: MarcoInterno019
+    100126: MarcoInterno020
+    100128: MarcoInterno1
+    100130: MarcoInterno2
+    100132: MarcoVentanaEscalera
+    100134: MarcoVidrio
+    100136: Pared_Oficina
+    100138: Paredes
+    100140: ParedOficina
+    100142: //RootNode
+    100144: Puerta
+    100146: puerta
+    100148: Puerta001
+    100150: puerta001
+    100152: Puerta002
+    100154: puerta002
+    100156: Puerta003
+    100158: puerta003
+    100160: PuertaCristal
+    100162: PuertaOficina
+    100164: PuertaSalon1
+    100166: PuertaSalon2
+    100168: PuertaSalon3
+    100170: PuertaSalon4
+    100172: Suelo
+    100174: Ventana1Salon4
+    100176: Ventana2Salon4
+    100178: Ventana3Salon4
+    100180: VentanaEscalera
+    100182: VentanaEsquinaSalon4
+    100184: VentanaInterior1
+    100186: VentanaInterior1 1
+    100188: VentanaInterior1 2
+    100190: VentanaInterior1 3
+    100192: VentanaInterior1 4
+    100194: VentanaInterior1 5
+    100196: VentanaInterior2
+    100198: VentanaInterior2 1
+    100200: VentanaInterior2 2
+    100202: VentanaInterior2 3
+    100204: VentanaInterior2 4
+    100206: VentanaInterior3
+    100208: VentanaInterior3 1
+    100210: VentanaInterior3 2
+    100212: VentanaInterior3 3
+    100214: VentanaInterior3 4
+    100216: VentanaInterior4
+    100218: VentanaInterior4 1
+    100220: VentanaInterior5
+    100222: VentanaInterior5 1
+    100224: VentanaInterior6
+    100226: VentanaInterior6 1
+    100228: VentanaInterior7
+    100230: VentanaInterior7 1
+    100232: VentanaInterior8
+    100234: VentanaInterior8 1
+    100236: VentanaInterior9
+    100238: VentanaInterior9 1
+    100240: VentanaIntermedia1
+    100242: VentanaIntermedio
+    100244: VentanaIntermedio2
+    100246: VentanaInterna1
+    100248: VentanaInterna2
+    100250: VentanaOficina
+    100252: VentanaSalon1
+    100254: VentanaSalon2
+    100256: VentanaSalon4
+    100258: Vidrio
+    100260: Vidrio 1
+    100262: Vidrio 10
+    100264: Vidrio 11
+    100266: Vidrio 12
+    100268: Vidrio 13
+    100270: Vidrio 14
+    100272: Vidrio 15
+    100274: Vidrio 16
+    100276: Vidrio 2
+    100278: Vidrio 3
+    100280: Vidrio 4
+    100282: Vidrio 5
+    100284: Vidrio 6
+    100286: Vidrio 7
+    100288: Vidrio 8
+    100290: Vidrio 9
+    100292: Vidrio009
+    100294: Vidrio010
+    100296: Vidrio011
+    100298: Vidrio012
+    100300: Vidrio013
+    100302: Vidrio014
+    100304: Vidrio015
+    100306: Vidrio016
+    100308: Vidrio017
+    100310: Vidrio018
+    100312: Vidrio019
+    100314: Vidrio020
+    100316: Vidrio021
+    100318: Vidrio022
+    100320: Vidrio023
+    100322: Vidrio024
+    100324: Vidrio025
+    100326: Vidrio026
+    100328: Vidrio1
+    100330: Vidrio1 1
+    100332: Vidrio2
+    100334: Vidrio2 1
+    100336: Vidrio3
+    100338: Vidrio4
+    100340: Vidrio5
+    100342: Vidrio6
+    100344: Vidrio7
+    100346: Vidrio8
+    400000: ' 1'
+    400002: ' 2'
+    400004: cerradura003
+    400006: cerradura004
+    400008: cerradura005
+    400010: cerradura006
+    400012: cerradura007
+    400014: cerradura008
+    400016: Cerradura1
+    400018: cerradura1
+    400020: Cerradura2
+    400022: cerradura2
+    400024: Chapa1
+    400026: Chapa2
+    400028: Escaleras
+    400030: Marco
+    400032: marco
+    400034: Marco 1
+    400036: Marco 2
+    400038: Marco 3
+    400040: Marco 4
+    400042: Marco 5
+    400044: marco001
+    400046: Marco002
+    400048: marco002
+    400050: Marco003
+    400052: marco003
+    400054: marco_chapa
+    400056: marco_chapa003
+    400058: marco_chapa004
+    400060: marco_chapa005
+    400062: marco_chapa006
+    400064: marco_chapa007
+    400066: marco_chapa008
+    400068: marco_chapa2
+    400070: marco_vidrio
+    400072: marco_vidrio 1
+    400074: marco_vidrio001
+    400076: marco_vidrio002
+    400078: marco_vidrio003
+    400080: marco_vidrio004
+    400082: marco_vidrio_fijo
+    400084: marco_vidrio_fijo001
+    400086: marco_vidrio_fijo002
+    400088: MarcoInterno
+    400090: MarcoInterno 1
+    400092: MarcoInterno003
+    400094: MarcoInterno004
+    400096: MarcoInterno005
+    400098: MarcoInterno006
+    400100: MarcoInterno007
+    400102: MarcoInterno008
+    400104: MarcoInterno009
+    400106: MarcoInterno010
+    400108: MarcoInterno011
+    400110: MarcoInterno012
+    400112: MarcoInterno013
+    400114: MarcoInterno014
+    400116: MarcoInterno015
+    400118: MarcoInterno016
+    400120: MarcoInterno017
+    400122: MarcoInterno018
+    400124: MarcoInterno019
+    400126: MarcoInterno020
+    400128: MarcoInterno1
+    400130: MarcoInterno2
+    400132: MarcoVentanaEscalera
+    400134: MarcoVidrio
+    400136: Pared_Oficina
+    400138: Paredes
+    400140: ParedOficina
+    400142: //RootNode
+    400144: Puerta
+    400146: puerta
+    400148: Puerta001
+    400150: puerta001
+    400152: Puerta002
+    400154: puerta002
+    400156: Puerta003
+    400158: puerta003
+    400160: PuertaCristal
+    400162: PuertaOficina
+    400164: PuertaSalon1
+    400166: PuertaSalon2
+    400168: PuertaSalon3
+    400170: PuertaSalon4
+    400172: Suelo
+    400174: Ventana1Salon4
+    400176: Ventana2Salon4
+    400178: Ventana3Salon4
+    400180: VentanaEscalera
+    400182: VentanaEsquinaSalon4
+    400184: VentanaInterior1
+    400186: VentanaInterior1 1
+    400188: VentanaInterior1 2
+    400190: VentanaInterior1 3
+    400192: VentanaInterior1 4
+    400194: VentanaInterior1 5
+    400196: VentanaInterior2
+    400198: VentanaInterior2 1
+    400200: VentanaInterior2 2
+    400202: VentanaInterior2 3
+    400204: VentanaInterior2 4
+    400206: VentanaInterior3
+    400208: VentanaInterior3 1
+    400210: VentanaInterior3 2
+    400212: VentanaInterior3 3
+    400214: VentanaInterior3 4
+    400216: VentanaInterior4
+    400218: VentanaInterior4 1
+    400220: VentanaInterior5
+    400222: VentanaInterior5 1
+    400224: VentanaInterior6
+    400226: VentanaInterior6 1
+    400228: VentanaInterior7
+    400230: VentanaInterior7 1
+    400232: VentanaInterior8
+    400234: VentanaInterior8 1
+    400236: VentanaInterior9
+    400238: VentanaInterior9 1
+    400240: VentanaIntermedia1
+    400242: VentanaIntermedio
+    400244: VentanaIntermedio2
+    400246: VentanaInterna1
+    400248: VentanaInterna2
+    400250: VentanaOficina
+    400252: VentanaSalon1
+    400254: VentanaSalon2
+    400256: VentanaSalon4
+    400258: Vidrio
+    400260: Vidrio 1
+    400262: Vidrio 10
+    400264: Vidrio 11
+    400266: Vidrio 12
+    400268: Vidrio 13
+    400270: Vidrio 14
+    400272: Vidrio 15
+    400274: Vidrio 16
+    400276: Vidrio 2
+    400278: Vidrio 3
+    400280: Vidrio 4
+    400282: Vidrio 5
+    400284: Vidrio 6
+    400286: Vidrio 7
+    400288: Vidrio 8
+    400290: Vidrio 9
+    400292: Vidrio009
+    400294: Vidrio010
+    400296: Vidrio011
+    400298: Vidrio012
+    400300: Vidrio013
+    400302: Vidrio014
+    400304: Vidrio015
+    400306: Vidrio016
+    400308: Vidrio017
+    400310: Vidrio018
+    400312: Vidrio019
+    400314: Vidrio020
+    400316: Vidrio021
+    400318: Vidrio022
+    400320: Vidrio023
+    400322: Vidrio024
+    400324: Vidrio025
+    400326: Vidrio026
+    400328: Vidrio1
+    400330: Vidrio1 1
+    400332: Vidrio2
+    400334: Vidrio2 1
+    400336: Vidrio3
+    400338: Vidrio4
+    400340: Vidrio5
+    400342: Vidrio6
+    400344: Vidrio7
+    400346: Vidrio8
+    2300000: ' 1'
+    2300002: ' 2'
+    2300004: cerradura003
+    2300006: cerradura004
+    2300008: cerradura005
+    2300010: cerradura006
+    2300012: cerradura007
+    2300014: cerradura008
+    2300016: Cerradura1
+    2300018: cerradura1
+    2300020: Cerradura2
+    2300022: cerradura2
+    2300024: Chapa1
+    2300026: Chapa2
+    2300028: Escaleras
+    2300030: Marco
+    2300032: marco
+    2300034: Marco 1
+    2300036: Marco 2
+    2300038: Marco 3
+    2300040: Marco 4
+    2300042: Marco 5
+    2300044: marco001
+    2300046: Marco002
+    2300048: marco002
+    2300050: Marco003
+    2300052: marco003
+    2300054: marco_chapa
+    2300056: marco_chapa003
+    2300058: marco_chapa004
+    2300060: marco_chapa005
+    2300062: marco_chapa006
+    2300064: marco_chapa007
+    2300066: marco_chapa008
+    2300068: marco_chapa2
+    2300070: marco_vidrio
+    2300072: marco_vidrio 1
+    2300074: marco_vidrio001
+    2300076: marco_vidrio002
+    2300078: marco_vidrio003
+    2300080: marco_vidrio004
+    2300082: marco_vidrio_fijo
+    2300084: marco_vidrio_fijo001
+    2300086: marco_vidrio_fijo002
+    2300088: MarcoInterno
+    2300090: MarcoInterno 1
+    2300092: MarcoInterno003
+    2300094: MarcoInterno004
+    2300096: MarcoInterno005
+    2300098: MarcoInterno006
+    2300100: MarcoInterno007
+    2300102: MarcoInterno008
+    2300104: MarcoInterno009
+    2300106: MarcoInterno010
+    2300108: MarcoInterno011
+    2300110: MarcoInterno012
+    2300112: MarcoInterno013
+    2300114: MarcoInterno014
+    2300116: MarcoInterno015
+    2300118: MarcoInterno016
+    2300120: MarcoInterno017
+    2300122: MarcoInterno018
+    2300124: MarcoInterno019
+    2300126: MarcoInterno020
+    2300128: MarcoInterno1
+    2300130: MarcoInterno2
+    2300132: MarcoVentanaEscalera
+    2300134: MarcoVidrio
+    2300136: Paredes
+    2300138: ParedOficina
+    2300140: puerta
+    2300142: puerta001
+    2300144: puerta002
+    2300146: puerta003
+    2300148: PuertaCristal
+    2300150: Suelo
+    2300152: VentanaIntermedia1
+    2300154: Vidrio
+    2300156: Vidrio 1
+    2300158: Vidrio 10
+    2300160: Vidrio 11
+    2300162: Vidrio 12
+    2300164: Vidrio 13
+    2300166: Vidrio 14
+    2300168: Vidrio 15
+    2300170: Vidrio 16
+    2300172: Vidrio 2
+    2300174: Vidrio 3
+    2300176: Vidrio 4
+    2300178: Vidrio 5
+    2300180: Vidrio 6
+    2300182: Vidrio 7
+    2300184: Vidrio 8
+    2300186: Vidrio 9
+    2300188: Vidrio009
+    2300190: Vidrio010
+    2300192: Vidrio011
+    2300194: Vidrio012
+    2300196: Vidrio013
+    2300198: Vidrio014
+    2300200: Vidrio015
+    2300202: Vidrio016
+    2300204: Vidrio017
+    2300206: Vidrio018
+    2300208: Vidrio019
+    2300210: Vidrio020
+    2300212: Vidrio021
+    2300214: Vidrio022
+    2300216: Vidrio023
+    2300218: Vidrio024
+    2300220: Vidrio025
+    2300222: Vidrio026
+    2300224: Vidrio1
+    2300226: Vidrio1 1
+    2300228: Vidrio2
+    2300230: Vidrio2 1
+    2300232: Vidrio3
+    2300234: Vidrio4
+    2300236: Vidrio5
+    2300238: Vidrio6
+    2300240: Vidrio7
+    2300242: Vidrio8
+    3300000: ' 1'
+    3300002: ' 2'
+    3300004: cerradura003
+    3300006: cerradura004
+    3300008: cerradura005
+    3300010: cerradura006
+    3300012: cerradura007
+    3300014: cerradura008
+    3300016: Cerradura1
+    3300018: cerradura1
+    3300020: Cerradura2
+    3300022: cerradura2
+    3300024: Chapa1
+    3300026: Chapa2
+    3300028: Escaleras
+    3300030: Marco
+    3300032: marco
+    3300034: Marco 1
+    3300036: Marco 2
+    3300038: Marco 3
+    3300040: Marco 4
+    3300042: Marco 5
+    3300044: marco001
+    3300046: Marco002
+    3300048: marco002
+    3300050: Marco003
+    3300052: marco003
+    3300054: marco_chapa
+    3300056: marco_chapa003
+    3300058: marco_chapa004
+    3300060: marco_chapa005
+    3300062: marco_chapa006
+    3300064: marco_chapa007
+    3300066: marco_chapa008
+    3300068: marco_chapa2
+    3300070: marco_vidrio
+    3300072: marco_vidrio 1
+    3300074: marco_vidrio001
+    3300076: marco_vidrio002
+    3300078: marco_vidrio003
+    3300080: marco_vidrio004
+    3300082: marco_vidrio_fijo
+    3300084: marco_vidrio_fijo001
+    3300086: marco_vidrio_fijo002
+    3300088: MarcoInterno
+    3300090: MarcoInterno 1
+    3300092: MarcoInterno003
+    3300094: MarcoInterno004
+    3300096: MarcoInterno005
+    3300098: MarcoInterno006
+    3300100: MarcoInterno007
+    3300102: MarcoInterno008
+    3300104: MarcoInterno009
+    3300106: MarcoInterno010
+    3300108: MarcoInterno011
+    3300110: MarcoInterno012
+    3300112: MarcoInterno013
+    3300114: MarcoInterno014
+    3300116: MarcoInterno015
+    3300118: MarcoInterno016
+    3300120: MarcoInterno017
+    3300122: MarcoInterno018
+    3300124: MarcoInterno019
+    3300126: MarcoInterno020
+    3300128: MarcoInterno1
+    3300130: MarcoInterno2
+    3300132: MarcoVentanaEscalera
+    3300134: MarcoVidrio
+    3300136: Paredes
+    3300138: ParedOficina
+    3300140: puerta
+    3300142: puerta001
+    3300144: puerta002
+    3300146: puerta003
+    3300148: PuertaCristal
+    3300150: Suelo
+    3300152: VentanaIntermedia1
+    3300154: Vidrio
+    3300156: Vidrio 1
+    3300158: Vidrio 10
+    3300160: Vidrio 11
+    3300162: Vidrio 12
+    3300164: Vidrio 13
+    3300166: Vidrio 14
+    3300168: Vidrio 15
+    3300170: Vidrio 16
+    3300172: Vidrio 2
+    3300174: Vidrio 3
+    3300176: Vidrio 4
+    3300178: Vidrio 5
+    3300180: Vidrio 6
+    3300182: Vidrio 7
+    3300184: Vidrio 8
+    3300186: Vidrio 9
+    3300188: Vidrio009
+    3300190: Vidrio010
+    3300192: Vidrio011
+    3300194: Vidrio012
+    3300196: Vidrio013
+    3300198: Vidrio014
+    3300200: Vidrio015
+    3300202: Vidrio016
+    3300204: Vidrio017
+    3300206: Vidrio018
+    3300208: Vidrio019
+    3300210: Vidrio020
+    3300212: Vidrio021
+    3300214: Vidrio022
+    3300216: Vidrio023
+    3300218: Vidrio024
+    3300220: Vidrio025
+    3300222: Vidrio026
+    3300224: Vidrio1
+    3300226: Vidrio1 1
+    3300228: Vidrio2
+    3300230: Vidrio2 1
+    3300232: Vidrio3
+    3300234: Vidrio4
+    3300236: Vidrio5
+    3300238: Vidrio6
+    3300240: Vidrio7
+    3300242: Vidrio8
+    4300000: Suelo
+    4300002: Escaleras
+    4300004: Paredes
+    4300006: MarcoInterno017
+    4300008: puerta002
+    4300010: cerradura005
+    4300012: marco_chapa005
+    4300014: marco_chapa006
+    4300016: cerradura006
+    4300018: marco002
+    4300020: Vidrio5
+    4300022: Vidrio1
+    4300024: Vidrio8
+    4300026: Vidrio2
+    4300028: Vidrio4
+    4300030: Vidrio3
+    4300032: ParedOficina
+    4300034: Vidrio7
+    4300036: Vidrio6
+    4300038: Vidrio
+    4300040: MarcoInterno010
+    4300042: Vidrio
+    4300044: MarcoInterno
+    4300046: Vidrio
+    4300048: MarcoInterno003
+    4300050: Vidrio
+    4300052: MarcoInterno007
+    4300054: Vidrio
+    4300056: MarcoInterno008
+    4300058: MarcoInterno006
+    4300060: Vidrio
+    4300062: Vidrio
+    4300064: MarcoInterno005
+    4300066: Vidrio
+    4300068: MarcoInterno009
+    4300070: Vidrio
+    4300072: MarcoInterno004
+    4300074: MarcoInterno
+    4300076: Vidrio025
+    4300078: MarcoInterno019
+    4300080: puerta001
+    4300082: cerradura003
+    4300084: marco_chapa003
+    4300086: marco_chapa004
+    4300088: cerradura004
+    4300090: marco001
+    4300092: puerta003
+    4300094: cerradura007
+    4300096: marco_chapa007
+    4300098: marco_chapa008
+    4300100: cerradura008
+    4300102: marco003
+    4300104: Vidrio009
+    4300106: marco_vidrio002
+    4300108: Vidrio010
+    4300110: Vidrio012
+    4300112: marco_vidrio_fijo001
+    4300114: Vidrio011
+    4300116: marco_vidrio001
+    4300118: Marco
+    4300120: cerradura1
+    4300122: marco_chapa2
+    4300124: puerta
+    4300126: marco_chapa
+    4300128: cerradura2
+    4300130: marco
+    4300132: Vidrio026
+    4300134: MarcoInterno020
+    4300136: Vidrio
+    4300138: PuertaCristal
+    4300140: Cerradura1
+    4300142: Chapa2
+    4300144: Chapa1
+    4300146: Cerradura2
+    4300148: Vidrio019
+    4300150: MarcoInterno012
+    4300152: Vidrio
+    4300154: marco_vidrio
+    4300156: Vidrio
+    4300158: Vidrio
+    4300160: marco_vidrio_fijo
+    4300162: Vidrio
+    4300164: marco_vidrio
+    4300166: Marco
+    4300168: Vidrio022
+    4300170: MarcoInterno016
+    4300172: Vidrio018
+    4300174: MarcoInterno014
+    4300176: Vidrio024
+    4300178: MarcoInterno011
+    4300180: Vidrio020
+    4300182: MarcoInterno018
+    4300184: Vidrio021
+    4300186: MarcoInterno013
+    4300188: Vidrio
+    4300190: MarcoVidrio
+    4300192: Marco
+    4300194: Marco
+    4300196: Vidrio
+    4300198: Vidrio023
+    4300200: MarcoInterno015
+    4300202: Vidrio
+    4300204: VentanaIntermedia1
+    4300206: Marco
+    4300210: Marco003
+    4300212: Vidrio017
+    4300214: Vidrio1
+    4300216: MarcoInterno1
+    4300218: MarcoVentanaEscalera
+    4300220: Vidrio2
+    4300222: MarcoInterno2
+    4300224: Vidrio016
+    4300226: Vidrio014
+    4300228: marco_vidrio_fijo002
+    4300230: Marco002
+    4300232: Vidrio013
+    4300234: marco_vidrio004
+    4300236: Vidrio015
+    4300238: marco_vidrio003
+    4300242: Marco
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
