@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 9c2f65f82ac127448bfd85c854cc9eb9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: cerradura003
+    100002: cerradura004
+    100004: cerradura005
+    100006: cerradura006
+    100008: cerradura007
+    100010: cerradura008
+    100012: cerradura2
+    100014: Escaleras
+    100016: Estructura
+    100018: //RootNode
+    100020: Marco
+    100022: marco_chapa003
+    100024: marco_chapa004
+    100026: marco_chapa005
+    100028: marco_chapa006
+    100030: marco_chapa007
+    100032: marco_chapa008
+    100034: marco_vidrio005
+    100036: marco_vidrio005 1
+    100038: marco_vidrio005 2
+    100040: marco_vidrio006
+    100042: marco_vidrio007
+    100044: marco_vidrio008
+    100046: marco_vidrio_fijo
+    100048: marco_vidrio_fijo 1
+    100050: marco_vidrio_fijo 2
+    100052: marco_vidrio_fijo002
+    100054: MarcoInterno1
+    100056: MarcoInterno2
+    100058: MarcoVentana
+    100060: MarcoVentanaEscalera
+    100062: MarcoVentanaEscalera 1
+    100064: MarcoVentanaFisica
+    100066: MarcoVentanaTeleco1
+    100068: MarcoVentanaTeleco2
+    100070: MarcoVidrio
+    100072: 'piso '
+    100074: puerta
+    100076: puerta001
+    100078: puerta003
+    100080: puerta004
+    100082: puerta005
+    100084: puerta006
+    100086: puerta2
+    100088: PuertaCuarto
+    100090: PuertaFisica
+    100092: PuertaTeleco1
+    100094: PuertaTeleco2
+    100096: TableroFisica
+    100098: Tableroteleco1
+    100100: Tableroteleco2
+    100102: TuboEntrada
+    100104: TuboEntrada001
+    100106: TuboEntrada002
+    100108: TuboSalida002
+    100110: TuboSalida003
+    100112: TuboSalida1
+    100114: VentanaCorredizaFisica1
+    100116: VentanaCorredizaFisica2
+    100118: VentanaCorredizaTeleco1.1
+    100120: VentanaCorredizaTeleco1.2
+    100122: VentanaCorredizaTeleco2.1
+    100124: VentanaCorredizaTeleco2.2
+    100126: VentanaEscalera
+    100128: VentanaEscaleraViabrir
+    100130: VentanaEscaleravicerrado
+    100132: VentanaEsceleras
+    100134: VentanaFijaFisica1
+    100136: VentanaFijaFisica2
+    100138: VentanaFijaTeleco1
+    100140: VentanaFijaTeleco2.1
+    100142: VentanaInterna1
+    100144: VentanaInterna2
+    100146: VentanaLabFisica
+    100148: VentanaLabTeleco1
+    100150: VentanaLabTeleco2
+    100152: VentanaPeque__a
+    100154: VidriesitoTeleco2
+    100156: Vidrio
+    100158: vidrio
+    100160: vidrio 1
+    100162: vidrio 2
+    100164: vidrio 3
+    100166: vidrio 4
+    100168: vidrio 5
+    100170: vidrio003
+    100172: vidrio003 1
+    100174: vidrio003 2
+    100176: vidrio004
+    100178: vidrio005
+    100180: vidrio006
+    100182: vidrio007
+    100184: vidrio008
+    100186: Vidrio1
+    100188: Vidrio2
+    100190: vidrio_puerta_laboratorio001
+    100192: vidrio_puerta_laboratorio002
+    100194: vidrio_puerta_laboratorio003
+    100196: VidrioAltoFisica
+    100198: VidrioArribaTeleco-Teleco2
+    100200: VidrioDelgadoTeleco2
+    100202: VidrioEscalera1
+    100204: VidrioEscalera2
+    100206: VidrioFisica-Teleco
+    100208: VidrioFisica2
+    100210: VidrioGrandeFisica
+    100212: VidrioGrandeTeleco-Teleco2
+    100214: VidrioPuertaFisica
+    100216: VidrioTeleco2.1
+    100218: VidrioTeleco2.2
+    100220: VnetanaPeque__a
+    400000: cerradura003
+    400002: cerradura004
+    400004: cerradura005
+    400006: cerradura006
+    400008: cerradura007
+    400010: cerradura008
+    400012: cerradura2
+    400014: Escaleras
+    400016: Estructura
+    400018: //RootNode
+    400020: Marco
+    400022: marco_chapa003
+    400024: marco_chapa004
+    400026: marco_chapa005
+    400028: marco_chapa006
+    400030: marco_chapa007
+    400032: marco_chapa008
+    400034: marco_vidrio005
+    400036: marco_vidrio005 1
+    400038: marco_vidrio005 2
+    400040: marco_vidrio006
+    400042: marco_vidrio007
+    400044: marco_vidrio008
+    400046: marco_vidrio_fijo
+    400048: marco_vidrio_fijo 1
+    400050: marco_vidrio_fijo 2
+    400052: marco_vidrio_fijo002
+    400054: MarcoInterno1
+    400056: MarcoInterno2
+    400058: MarcoVentana
+    400060: MarcoVentanaEscalera
+    400062: MarcoVentanaEscalera 1
+    400064: MarcoVentanaFisica
+    400066: MarcoVentanaTeleco1
+    400068: MarcoVentanaTeleco2
+    400070: MarcoVidrio
+    400072: 'piso '
+    400074: puerta
+    400076: puerta001
+    400078: puerta003
+    400080: puerta004
+    400082: puerta005
+    400084: puerta006
+    400086: puerta2
+    400088: PuertaCuarto
+    400090: PuertaFisica
+    400092: PuertaTeleco1
+    400094: PuertaTeleco2
+    400096: TableroFisica
+    400098: Tableroteleco1
+    400100: Tableroteleco2
+    400102: TuboEntrada
+    400104: TuboEntrada001
+    400106: TuboEntrada002
+    400108: TuboSalida002
+    400110: TuboSalida003
+    400112: TuboSalida1
+    400114: VentanaCorredizaFisica1
+    400116: VentanaCorredizaFisica2
+    400118: VentanaCorredizaTeleco1.1
+    400120: VentanaCorredizaTeleco1.2
+    400122: VentanaCorredizaTeleco2.1
+    400124: VentanaCorredizaTeleco2.2
+    400126: VentanaEscalera
+    400128: VentanaEscaleraViabrir
+    400130: VentanaEscaleravicerrado
+    400132: VentanaEsceleras
+    400134: VentanaFijaFisica1
+    400136: VentanaFijaFisica2
+    400138: VentanaFijaTeleco1
+    400140: VentanaFijaTeleco2.1
+    400142: VentanaInterna1
+    400144: VentanaInterna2
+    400146: VentanaLabFisica
+    400148: VentanaLabTeleco1
+    400150: VentanaLabTeleco2
+    400152: VentanaPeque__a
+    400154: VidriesitoTeleco2
+    400156: Vidrio
+    400158: vidrio
+    400160: vidrio 1
+    400162: vidrio 2
+    400164: vidrio 3
+    400166: vidrio 4
+    400168: vidrio 5
+    400170: vidrio003
+    400172: vidrio003 1
+    400174: vidrio003 2
+    400176: vidrio004
+    400178: vidrio005
+    400180: vidrio006
+    400182: vidrio007
+    400184: vidrio008
+    400186: Vidrio1
+    400188: Vidrio2
+    400190: vidrio_puerta_laboratorio001
+    400192: vidrio_puerta_laboratorio002
+    400194: vidrio_puerta_laboratorio003
+    400196: VidrioAltoFisica
+    400198: VidrioArribaTeleco-Teleco2
+    400200: VidrioDelgadoTeleco2
+    400202: VidrioEscalera1
+    400204: VidrioEscalera2
+    400206: VidrioFisica-Teleco
+    400208: VidrioFisica2
+    400210: VidrioGrandeFisica
+    400212: VidrioGrandeTeleco-Teleco2
+    400214: VidrioPuertaFisica
+    400216: VidrioTeleco2.1
+    400218: VidrioTeleco2.2
+    400220: VnetanaPeque__a
+    2300000: cerradura003
+    2300002: cerradura004
+    2300004: cerradura005
+    2300006: cerradura006
+    2300008: cerradura007
+    2300010: cerradura008
+    2300012: cerradura2
+    2300014: Escaleras
+    2300016: Estructura
+    2300018: Marco
+    2300020: marco_vidrio005
+    2300022: marco_vidrio005 1
+    2300024: marco_vidrio005 2
+    2300026: marco_vidrio006
+    2300028: marco_vidrio007
+    2300030: marco_vidrio008
+    2300032: marco_vidrio_fijo
+    2300034: marco_vidrio_fijo 1
+    2300036: marco_vidrio_fijo 2
+    2300038: marco_vidrio_fijo002
+    2300040: MarcoInterno1
+    2300042: MarcoInterno2
+    2300044: MarcoVentanaEscalera
+    2300046: MarcoVentanaEscalera 1
+    2300048: MarcoVentanaFisica
+    2300050: MarcoVentanaTeleco1
+    2300052: MarcoVentanaTeleco2
+    2300054: MarcoVidrio
+    2300056: 'piso '
+    2300058: puerta
+    2300060: puerta001
+    2300062: puerta004
+    2300064: puerta005
+    2300066: TableroFisica
+    2300068: Tableroteleco1
+    2300070: Tableroteleco2
+    2300072: TuboEntrada
+    2300074: TuboEntrada001
+    2300076: TuboEntrada002
+    2300078: TuboSalida002
+    2300080: TuboSalida003
+    2300082: TuboSalida1
+    2300084: VentanaInterna1
+    2300086: VidriesitoTeleco2
+    2300088: Vidrio
+    2300090: vidrio
+    2300092: vidrio 1
+    2300094: vidrio 2
+    2300096: vidrio 3
+    2300098: vidrio 4
+    2300100: vidrio 5
+    2300102: vidrio003
+    2300104: vidrio003 1
+    2300106: vidrio003 2
+    2300108: vidrio004
+    2300110: vidrio005
+    2300112: vidrio006
+    2300114: vidrio007
+    2300116: vidrio008
+    2300118: Vidrio1
+    2300120: Vidrio2
+    2300122: vidrio_puerta_laboratorio001
+    2300124: vidrio_puerta_laboratorio002
+    2300126: vidrio_puerta_laboratorio003
+    2300128: VidrioAltoFisica
+    2300130: VidrioArribaTeleco-Teleco2
+    2300132: VidrioDelgadoTeleco2
+    2300134: VidrioEscalera1
+    2300136: VidrioEscalera2
+    2300138: VidrioFisica-Teleco
+    2300140: VidrioFisica2
+    2300142: VidrioGrandeFisica
+    2300144: VidrioGrandeTeleco-Teleco2
+    2300146: VidrioPuertaFisica
+    2300148: VidrioTeleco2.1
+    2300150: VidrioTeleco2.2
+    3300000: cerradura003
+    3300002: cerradura004
+    3300004: cerradura005
+    3300006: cerradura006
+    3300008: cerradura007
+    3300010: cerradura008
+    3300012: cerradura2
+    3300014: Escaleras
+    3300016: Estructura
+    3300018: Marco
+    3300020: marco_vidrio005
+    3300022: marco_vidrio005 1
+    3300024: marco_vidrio005 2
+    3300026: marco_vidrio006
+    3300028: marco_vidrio007
+    3300030: marco_vidrio008
+    3300032: marco_vidrio_fijo
+    3300034: marco_vidrio_fijo 1
+    3300036: marco_vidrio_fijo 2
+    3300038: marco_vidrio_fijo002
+    3300040: MarcoInterno1
+    3300042: MarcoInterno2
+    3300044: MarcoVentanaEscalera
+    3300046: MarcoVentanaEscalera 1
+    3300048: MarcoVentanaFisica
+    3300050: MarcoVentanaTeleco1
+    3300052: MarcoVentanaTeleco2
+    3300054: MarcoVidrio
+    3300056: 'piso '
+    3300058: puerta
+    3300060: puerta001
+    3300062: puerta004
+    3300064: puerta005
+    3300066: TableroFisica
+    3300068: Tableroteleco1
+    3300070: Tableroteleco2
+    3300072: TuboEntrada
+    3300074: TuboEntrada001
+    3300076: TuboEntrada002
+    3300078: TuboSalida002
+    3300080: TuboSalida003
+    3300082: TuboSalida1
+    3300084: VentanaInterna1
+    3300086: VidriesitoTeleco2
+    3300088: Vidrio
+    3300090: vidrio
+    3300092: vidrio 1
+    3300094: vidrio 2
+    3300096: vidrio 3
+    3300098: vidrio 4
+    3300100: vidrio 5
+    3300102: vidrio003
+    3300104: vidrio003 1
+    3300106: vidrio003 2
+    3300108: vidrio004
+    3300110: vidrio005
+    3300112: vidrio006
+    3300114: vidrio007
+    3300116: vidrio008
+    3300118: Vidrio1
+    3300120: Vidrio2
+    3300122: vidrio_puerta_laboratorio001
+    3300124: vidrio_puerta_laboratorio002
+    3300126: vidrio_puerta_laboratorio003
+    3300128: VidrioAltoFisica
+    3300130: VidrioArribaTeleco-Teleco2
+    3300132: VidrioDelgadoTeleco2
+    3300134: VidrioEscalera1
+    3300136: VidrioEscalera2
+    3300138: VidrioFisica-Teleco
+    3300140: VidrioFisica2
+    3300142: VidrioGrandeFisica
+    3300144: VidrioGrandeTeleco-Teleco2
+    3300146: VidrioPuertaFisica
+    3300148: VidrioTeleco2.1
+    3300150: VidrioTeleco2.2
+    4300000: Escaleras
+    4300002: Estructura
+    4300004: 'piso '
+    4300006: VidrioArribaTeleco-Teleco2
+    4300008: VidrioTeleco2.2
+    4300010: VidrioTeleco2.1
+    4300012: VidrioDelgadoTeleco2
+    4300014: VidriesitoTeleco2
+    4300016: VidrioAltoFisica
+    4300018: VidrioGrandeFisica
+    4300020: VidrioGrandeTeleco-Teleco2
+    4300022: MarcoVentanaEscalera
+    4300024: Vidrio1
+    4300026: MarcoInterno1
+    4300028: Vidrio2
+    4300030: MarcoInterno2
+    4300032: VidrioFisica-Teleco
+    4300034: marco_vidrio008
+    4300036: vidrio008
+    4300038: vidrio
+    4300040: marco_vidrio_fijo
+    4300042: vidrio
+    4300044: marco_vidrio005
+    4300046: vidrio003
+    4300048: MarcoVentanaTeleco1
+    4300050: marco_vidrio005
+    4300052: vidrio003
+    4300054: vidrio
+    4300056: marco_vidrio_fijo
+    4300058: vidrio
+    4300060: vidrio004
+    4300062: marco_vidrio_fijo002
+    4300064: vidrio005
+    4300066: vidrio006
+    4300068: marco_vidrio006
+    4300070: MarcoVentanaFisica
+    4300072: Tableroteleco1
+    4300074: TableroFisica
+    4300076: VidrioPuertaFisica
+    4300078: vidrio_puerta_laboratorio002
+    4300080: puerta004
+    4300082: cerradura005
+    4300084: cerradura006
+    4300086: TuboEntrada001
+    4300088: TuboSalida002
+    4300090: vidrio_puerta_laboratorio001
+    4300092: puerta001
+    4300094: cerradura003
+    4300096: cerradura004
+    4300098: TuboEntrada
+    4300100: TuboSalida1
+    4300102: puerta
+    4300104: cerradura2
+    4300106: puerta005
+    4300108: vidrio_puerta_laboratorio003
+    4300110: cerradura007
+    4300112: cerradura008
+    4300114: TuboEntrada002
+    4300116: TuboSalida003
+    4300118: VidrioEscalera2
+    4300120: VidrioEscalera1
+    4300122: MarcoVentanaEscalera
+    4300124: VentanaInterna1
+    4300126: VidrioFisica2
+    4300128: Tableroteleco2
+    4300130: Vidrio
+    4300132: Marco
+    4300134: MarcoVidrio
+    4300136: MarcoVentanaTeleco2
+    4300138: vidrio007
+    4300140: marco_vidrio007
+    4300142: marco_vidrio005
+    4300144: vidrio003
+    4300146: vidrio
+    4300148: marco_vidrio_fijo
+    4300150: vidrio
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
